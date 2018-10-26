@@ -1,0 +1,1 @@
+MIT 禁止创建为PDF文件，所以只有在线的Web阅读版本 http://www.deeplearningbook.org/
