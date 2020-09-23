@@ -1,1 +1,1 @@
-# classic-book  only use for study！Rights to author!
+# book only use for study！Rights to author!
